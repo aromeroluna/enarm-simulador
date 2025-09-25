@@ -1,0 +1,1402 @@
+[
+  {
+    "area": "Cirugía",
+    "stem": "Varón de 44 años con dolor en fosa iliaca derecha, fiebre y Blumberg positivo. ¿Diagnóstico más probable?",
+    "options": [
+      "Gastroenteritis",
+      "Apendicitis aguda",
+      "Colecistitis aguda",
+      "Diverticulitis",
+      "Pancreatitis aguda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de apendicitis aguda.",
+    "more": "Manejo: apendicectomía y antibióticos según caso."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 23 meses con tos 'perruna', estridor inspiratorio y fiebre. ¿Diagnóstico más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía bacteriana",
+      "Reflujo gastroesofágico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tos metálica y estridor sugieren crup viral.",
+    "more": "Manejo con esteroides ± adrenalina nebulizada en casos moderados-graves."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer de 21 años con dolor pélvico crónico, dismenorrea progresiva y dispareunia. USG: quistes de aspecto 'vidrio esmerilado'. ¿Dx más probable?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma seroso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica y hallazgos típicos de endometriosis/endometriomas.",
+    "more": "Tríada clásica: dismenorrea, dispareunia e infertilidad."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 36 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón de 34 años con dolor en fosa iliaca derecha, fiebre y Blumberg positivo. ¿Diagnóstico más probable?",
+    "options": [
+      "Gastroenteritis",
+      "Apendicitis aguda",
+      "Colecistitis aguda",
+      "Diverticulitis",
+      "Pancreatitis aguda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de apendicitis aguda.",
+    "more": "Manejo: apendicectomía y antibióticos según caso."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Recién nacido con cianosis que mejora con el llanto, dificultad para sonda nasogástrica. ¿Diagnóstico más probable?",
+    "options": [
+      "Atresia coanal bilateral",
+      "Cardiopatía congénita cianógena",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal bilateral.",
+    "more": "Confirmación al no poder pasar sonda; manejo quirúrgico."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante de 8 semanas con sangrado vaginal indoloro y útero mayor para la edad gestacional; USG con imagen en 'copos de nieve'. ¿Conducta?",
+    "options": [
+      "Expectante",
+      "Legrado uterino por aspiración",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Solo ácido tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro compatible con mola hidatidiforme; manejo con AMEU/legrado por aspiración.",
+    "more": "Monitorizar BHCG seriada posterior."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo. USG: ovarios con múltiples folículos periféricos. ¿Diagnóstico?",
+    "options": [
+      "Hiperplasia suprarrenal congénita",
+      "SOP",
+      "Insuficiencia ovárica primaria",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica e imagen compatibles con síndrome de ovario poliquístico.",
+    "more": "Evaluar criterios de Rotterdam."
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Paciente politraumatizado con Glasgow 8 y respiración irregular. ¿Intervención inmediata prioritaria?",
+    "options": [
+      "Tomografía de cráneo inmediato",
+      "Intubación orotraqueal",
+      "Analgesia opiácea",
+      "Líquidos a chorro",
+      "Radiografía cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vía aérea: GCS ≤8 o respiración ineficaz requiere intubación.",
+    "more": "ABC del trauma: Airway, Breathing, Circulation."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 42 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 10 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer de 50 años sin antecedentes, IMC 35. ¿Intervención inicial recomendada?",
+    "options": [
+      "Farmacoterapia antiobesidad inmediata",
+      "Cirugía bariátrica",
+      "Consejería nutricional y actividad física",
+      "Dieta cetogénica estricta sin seguimiento",
+      "Solo seguimiento anual"
+    ],
+    "correctIndex": 2,
+    "explanation": "En sobrepeso/obesidad sin comorbilidad, primera línea es cambio de estilo de vida con metas realistas.",
+    "more": "Farmaco/cirugía según IMC y comorbilidades."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo. USG: ovarios con múltiples folículos periféricos. ¿Diagnóstico?",
+    "options": [
+      "Hiperplasia suprarrenal congénita",
+      "SOP",
+      "Insuficiencia ovárica primaria",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica e imagen compatibles con síndrome de ovario poliquístico.",
+    "more": "Evaluar criterios de Rotterdam."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer de 25 años sin antecedentes, IMC 27. ¿Intervención inicial recomendada?",
+    "options": [
+      "Farmacoterapia antiobesidad inmediata",
+      "Cirugía bariátrica",
+      "Consejería nutricional y actividad física",
+      "Dieta cetogénica estricta sin seguimiento",
+      "Solo seguimiento anual"
+    ],
+    "correctIndex": 2,
+    "explanation": "En sobrepeso/obesidad sin comorbilidad, primera línea es cambio de estilo de vida con metas realistas.",
+    "more": "Farmaco/cirugía según IMC y comorbilidades."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer de 17 años con dolor pélvico crónico, dismenorrea progresiva y dispareunia. USG: quistes de aspecto 'vidrio esmerilado'. ¿Dx más probable?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma seroso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica y hallazgos típicos de endometriosis/endometriomas.",
+    "more": "Tríada clásica: dismenorrea, dispareunia e infertilidad."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo. USG: ovarios con múltiples folículos periféricos. ¿Diagnóstico?",
+    "options": [
+      "Hiperplasia suprarrenal congénita",
+      "SOP",
+      "Insuficiencia ovárica primaria",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica e imagen compatibles con síndrome de ovario poliquístico.",
+    "more": "Evaluar criterios de Rotterdam."
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "En un brote de gastroenteritis por alimento contaminado, ¿cuál es el **primer paso** en la investigación de campo?",
+    "options": [
+      "Identificar vehículo de transmisión",
+      "Definir caso sospechoso",
+      "Aplicar cuestionarios",
+      "Tomar muestras de laboratorio",
+      "Emitir informe final"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso es el paso inicial para estandarizar quién entra al conteo.",
+    "more": "Luego se hace línea de tiempo, curvas epidémicas y búsqueda activa."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 13 años, TFG estimada 58 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 80 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 30 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 49 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar de 102 años con fiebre, odinofagia, exudado amigdalar y petequias en paladar. Test rápido positivo a estreptococo. ¿Tratamiento?",
+    "options": [
+      "Amoxicilina-clavulanato 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina dosis única",
+      "Ceftriaxona IV",
+      "No requiere antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Faringoamigdalitis estreptocóccica: penicilina benzatínica IM o penicilina V.",
+    "more": "Macrólidos si alergia a penicilina."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Recién nacido con cianosis que mejora con el llanto, dificultad para sonda nasogástrica. ¿Diagnóstico más probable?",
+    "options": [
+      "Atresia coanal bilateral",
+      "Cardiopatía congénita cianógena",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal bilateral.",
+    "more": "Confirmación al no poder pasar sonda; manejo quirúrgico."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 53 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Recién nacido con cianosis que mejora con el llanto, dificultad para sonda nasogástrica. ¿Diagnóstico más probable?",
+    "options": [
+      "Atresia coanal bilateral",
+      "Cardiopatía congénita cianógena",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal bilateral.",
+    "more": "Confirmación al no poder pasar sonda; manejo quirúrgico."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 37 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar de 50 años con fiebre, odinofagia, exudado amigdalar y petequias en paladar. Test rápido positivo a estreptococo. ¿Tratamiento?",
+    "options": [
+      "Amoxicilina-clavulanato 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina dosis única",
+      "Ceftriaxona IV",
+      "No requiere antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Faringoamigdalitis estreptocóccica: penicilina benzatínica IM o penicilina V.",
+    "more": "Macrólidos si alergia a penicilina."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante de 16 semanas con sangrado vaginal indoloro y útero mayor para la edad gestacional; USG con imagen en 'copos de nieve'. ¿Conducta?",
+    "options": [
+      "Expectante",
+      "Legrado uterino por aspiración",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Solo ácido tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro compatible con mola hidatidiforme; manejo con AMEU/legrado por aspiración.",
+    "more": "Monitorizar BHCG seriada posterior."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 93 meses con tos 'perruna', estridor inspiratorio y fiebre. ¿Diagnóstico más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía bacteriana",
+      "Reflujo gastroesofágico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tos metálica y estridor sugieren crup viral.",
+    "more": "Manejo con esteroides ± adrenalina nebulizada en casos moderados-graves."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre de 40 años fumador activo 30 paquetes-año, sin síntomas. ¿Qué tamizaje reduce mortalidad específica?",
+    "options": [
+      "Radiografía anual de tórax",
+      "TC de baja dosis para cáncer de pulmón",
+      "Citología de esputo",
+      "RMN torácica",
+      "No hay tamizaje recomendado"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en 50–80 años con ≥20–30 paquetes-año disminuye mortalidad por cáncer de pulmón.",
+    "more": "Criterios exactos varían por guía; suspender si dejó de fumar hace >15 años."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo. USG: ovarios con múltiples folículos periféricos. ¿Diagnóstico?",
+    "options": [
+      "Hiperplasia suprarrenal congénita",
+      "SOP",
+      "Insuficiencia ovárica primaria",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica e imagen compatibles con síndrome de ovario poliquístico.",
+    "more": "Evaluar criterios de Rotterdam."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 35 años con dolor torácico opresivo de 20 min, diaforesis y náusea. ECG: elevación del ST en derivaciones I y aVL con V5–V6. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 50 años con dolor torácico opresivo de 90 min, diaforesis y náusea. ECG: elevación del ST en derivaciones II, III, aVF. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 64 años con dolor torácico opresivo de 45 min, diaforesis y náusea. ECG: elevación del ST en derivaciones II, III, aVF. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 60 meses con tos 'perruna', estridor inspiratorio y fiebre. ¿Diagnóstico más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía bacteriana",
+      "Reflujo gastroesofágico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tos metálica y estridor sugieren crup viral.",
+    "more": "Manejo con esteroides ± adrenalina nebulizada en casos moderados-graves."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 102 meses con diarrea acuosa abundante, deshidratación leve y fiebre baja. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico empírico",
+      "Soluciones de rehidratación oral",
+      "Antidiarreico loperamida",
+      "Ayuno 24 h",
+      "Hospitalización inmediata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rehidratación oral es pilar en gastroenteritis leve-moderada.",
+    "more": "Evitar loperamida en niños pequeños."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Paciente con herida cortante contaminada hace 14 h y esquema de vacunación tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza y sutura",
+      "Toxoide tetánico + inmunoglobulina antitetánica",
+      "Antibiótico y alta",
+      "Ninguna intervención",
+      "Solo toxoide tetánico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido: toxoide + Ig antitetánica.",
+    "more": "Sutura diferida si hay contaminación significativa."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 61 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer de 44 años con dolor pélvico crónico, dismenorrea progresiva y dispareunia. USG: quistes de aspecto 'vidrio esmerilado'. ¿Dx más probable?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma seroso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica y hallazgos típicos de endometriosis/endometriomas.",
+    "more": "Tríada clásica: dismenorrea, dispareunia e infertilidad."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 60 años con dolor torácico opresivo de 60 min, diaforesis y náusea. ECG: elevación del ST en derivaciones II, III, aVF. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico con asignación aleatoria y enmascaramiento doble. ¿Qué sesgo reduce con mayor fuerza?",
+    "options": [
+      "Sesgo de recuerdo",
+      "Sesgo de selección",
+      "Sesgo de publicación",
+      "Sesgo de verificación",
+      "Sesgo de supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización reduce sesgo de selección; doble ciego disminuye sesgo de medición.",
+    "more": "Publicación depende de factores externos al diseño."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 8 años, TFG estimada 65 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Paciente politraumatizado con Glasgow 6 y respiración irregular. ¿Intervención inmediata prioritaria?",
+    "options": [
+      "Tomografía de cráneo inmediato",
+      "Intubación orotraqueal",
+      "Analgesia opiácea",
+      "Líquidos a chorro",
+      "Radiografía cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vía aérea: GCS ≤8 o respiración ineficaz requiere intubación.",
+    "more": "ABC del trauma: Airway, Breathing, Circulation."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar de 38 años con fiebre, odinofagia, exudado amigdalar y petequias en paladar. Test rápido positivo a estreptococo. ¿Tratamiento?",
+    "options": [
+      "Amoxicilina-clavulanato 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina dosis única",
+      "Ceftriaxona IV",
+      "No requiere antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Faringoamigdalitis estreptocóccica: penicilina benzatínica IM o penicilina V.",
+    "more": "Macrólidos si alergia a penicilina."
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "En un brote de gastroenteritis por alimento contaminado, ¿cuál es el **primer paso** en la investigación de campo?",
+    "options": [
+      "Identificar vehículo de transmisión",
+      "Definir caso sospechoso",
+      "Aplicar cuestionarios",
+      "Tomar muestras de laboratorio",
+      "Emitir informe final"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso es el paso inicial para estandarizar quién entra al conteo.",
+    "more": "Luego se hace línea de tiempo, curvas epidémicas y búsqueda activa."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 56 meses con diarrea acuosa abundante, deshidratación leve y fiebre baja. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico empírico",
+      "Soluciones de rehidratación oral",
+      "Antidiarreico loperamida",
+      "Ayuno 24 h",
+      "Hospitalización inmediata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rehidratación oral es pilar en gastroenteritis leve-moderada.",
+    "more": "Evitar loperamida en niños pequeños."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 71 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 20 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 21 meses con diarrea acuosa abundante, deshidratación leve y fiebre baja. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico empírico",
+      "Soluciones de rehidratación oral",
+      "Antidiarreico loperamida",
+      "Ayuno 24 h",
+      "Hospitalización inmediata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rehidratación oral es pilar en gastroenteritis leve-moderada.",
+    "more": "Evitar loperamida en niños pequeños."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 95 meses con tos 'perruna', estridor inspiratorio y fiebre. ¿Diagnóstico más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía bacteriana",
+      "Reflujo gastroesofágico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tos metálica y estridor sugieren crup viral.",
+    "more": "Manejo con esteroides ± adrenalina nebulizada en casos moderados-graves."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar de 64 años con fiebre, odinofagia, exudado amigdalar y petequias en paladar. Test rápido positivo a estreptococo. ¿Tratamiento?",
+    "options": [
+      "Amoxicilina-clavulanato 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina dosis única",
+      "Ceftriaxona IV",
+      "No requiere antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Faringoamigdalitis estreptocóccica: penicilina benzatínica IM o penicilina V.",
+    "more": "Macrólidos si alergia a penicilina."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 19 años, TFG estimada 42 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 44 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 40 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 12 años, TFG estimada 42 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Paciente con ictericia, fiebre y dolor en hipocondrio derecho. Murphy positivo y datos de sepsis. ¿Sospecha principal?",
+    "options": [
+      "Colecistitis litiásica no complicada",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis leve",
+      "Ulcera péptica perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot compatible con colangitis; requiere antibiótico y descompresión biliar.",
+    "more": "Evaluar CPRE urgente según estabilidad."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 53 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 35 meses con tos 'perruna', estridor inspiratorio y fiebre. ¿Diagnóstico más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía bacteriana",
+      "Reflujo gastroesofágico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tos metálica y estridor sugieren crup viral.",
+    "more": "Manejo con esteroides ± adrenalina nebulizada en casos moderados-graves."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 35 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 7 años, TFG estimada 65 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico con asignación aleatoria y enmascaramiento doble. ¿Qué sesgo reduce con mayor fuerza?",
+    "options": [
+      "Sesgo de recuerdo",
+      "Sesgo de selección",
+      "Sesgo de publicación",
+      "Sesgo de verificación",
+      "Sesgo de supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización reduce sesgo de selección; doble ciego disminuye sesgo de medición.",
+    "more": "Publicación depende de factores externos al diseño."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer de 25 años con dolor pélvico crónico, dismenorrea progresiva y dispareunia. USG: quistes de aspecto 'vidrio esmerilado'. ¿Dx más probable?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma seroso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica y hallazgos típicos de endometriosis/endometriomas.",
+    "more": "Tríada clásica: dismenorrea, dispareunia e infertilidad."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 11 años, TFG estimada 58 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar de 120 años con fiebre, odinofagia, exudado amigdalar y petequias en paladar. Test rápido positivo a estreptococo. ¿Tratamiento?",
+    "options": [
+      "Amoxicilina-clavulanato 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina dosis única",
+      "Ceftriaxona IV",
+      "No requiere antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Faringoamigdalitis estreptocóccica: penicilina benzatínica IM o penicilina V.",
+    "more": "Macrólidos si alergia a penicilina."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer de 18 años con dolor pélvico crónico, dismenorrea progresiva y dispareunia. USG: quistes de aspecto 'vidrio esmerilado'. ¿Dx más probable?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma seroso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica y hallazgos típicos de endometriosis/endometriomas.",
+    "more": "Tríada clásica: dismenorrea, dispareunia e infertilidad."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 60 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 20 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Recién nacido con cianosis que mejora con el llanto, dificultad para sonda nasogástrica. ¿Diagnóstico más probable?",
+    "options": [
+      "Atresia coanal bilateral",
+      "Cardiopatía congénita cianógena",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal bilateral.",
+    "more": "Confirmación al no poder pasar sonda; manejo quirúrgico."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 78 años con dolor torácico opresivo de 20 min, diaforesis y náusea. ECG: elevación del ST en derivaciones I y aVL con V5–V6. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Paciente con ictericia, fiebre y dolor en hipocondrio derecho. Murphy positivo y datos de sepsis. ¿Sospecha principal?",
+    "options": [
+      "Colecistitis litiásica no complicada",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis leve",
+      "Ulcera péptica perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot compatible con colangitis; requiere antibiótico y descompresión biliar.",
+    "more": "Evaluar CPRE urgente según estabilidad."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 70 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 2 meses con diarrea acuosa abundante, deshidratación leve y fiebre baja. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico empírico",
+      "Soluciones de rehidratación oral",
+      "Antidiarreico loperamida",
+      "Ayuno 24 h",
+      "Hospitalización inmediata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rehidratación oral es pilar en gastroenteritis leve-moderada.",
+    "more": "Evitar loperamida en niños pequeños."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 75 años con dolor torácico opresivo de 20 min, diaforesis y náusea. ECG: elevación del ST en derivaciones II, III, aVF. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 44 años con dolor torácico opresivo de 30 min, diaforesis y náusea. ECG: elevación del ST en derivaciones V1–V4. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 60 años con dolor torácico opresivo de 45 min, diaforesis y náusea. ECG: elevación del ST en derivaciones II, III, aVF. ¿Cuál es la intervención inicial más apropiada?",
+    "options": [
+      "Administrar nifedipino sublingual",
+      "Oxígeno suplementario, aspirina y acceso venoso",
+      "Solicitar tomografía de tórax con contraste",
+      "Iniciar anticoagulación con warfarina de inmediato",
+      "Dar reposo domiciliario y control en 72 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "En IAM con elevación del ST, la medida inicial incluye O2 si hay hipoxemia, AAS y accesos venosos; luego reperfusión según tiempos.",
+    "more": "Evitar nifedipino sublingual por hipotensión; la warfarina no es de elección aguda."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante de 73 meses con diarrea acuosa abundante, deshidratación leve y fiebre baja. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico empírico",
+      "Soluciones de rehidratación oral",
+      "Antidiarreico loperamida",
+      "Ayuno 24 h",
+      "Hospitalización inmediata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rehidratación oral es pilar en gastroenteritis leve-moderada.",
+    "more": "Evitar loperamida en niños pequeños."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 77 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 41 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 20 años, TFG estimada 58 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo. USG: ovarios con múltiples folículos periféricos. ¿Diagnóstico?",
+    "options": [
+      "Hiperplasia suprarrenal congénita",
+      "SOP",
+      "Insuficiencia ovárica primaria",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica e imagen compatibles con síndrome de ovario poliquístico.",
+    "more": "Evaluar criterios de Rotterdam."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante de 15 semanas con sangrado vaginal indoloro y útero mayor para la edad gestacional; USG con imagen en 'copos de nieve'. ¿Conducta?",
+    "options": [
+      "Expectante",
+      "Legrado uterino por aspiración",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Solo ácido tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro compatible con mola hidatidiforme; manejo con AMEU/legrado por aspiración.",
+    "more": "Monitorizar BHCG seriada posterior."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre de 54 años fumador activo 30 paquetes-año, sin síntomas. ¿Qué tamizaje reduce mortalidad específica?",
+    "options": [
+      "Radiografía anual de tórax",
+      "TC de baja dosis para cáncer de pulmón",
+      "Citología de esputo",
+      "RMN torácica",
+      "No hay tamizaje recomendado"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en 50–80 años con ≥20–30 paquetes-año disminuye mortalidad por cáncer de pulmón.",
+    "more": "Criterios exactos varían por guía; suspender si dejó de fumar hace >15 años."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Paciente con ictericia, fiebre y dolor en hipocondrio derecho. Murphy positivo y datos de sepsis. ¿Sospecha principal?",
+    "options": [
+      "Colecistitis litiásica no complicada",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis leve",
+      "Ulcera péptica perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot compatible con colangitis; requiere antibiótico y descompresión biliar.",
+    "more": "Evaluar CPRE urgente según estabilidad."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Recién nacido con cianosis que mejora con el llanto, dificultad para sonda nasogástrica. ¿Diagnóstico más probable?",
+    "options": [
+      "Atresia coanal bilateral",
+      "Cardiopatía congénita cianógena",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal bilateral.",
+    "more": "Confirmación al no poder pasar sonda; manejo quirúrgico."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 69 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Paciente con herida cortante contaminada hace 14 h y esquema de vacunación tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza y sutura",
+      "Toxoide tetánico + inmunoglobulina antitetánica",
+      "Antibiótico y alta",
+      "Ninguna intervención",
+      "Solo toxoide tetánico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido: toxoide + Ig antitetánica.",
+    "more": "Sutura diferida si hay contaminación significativa."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 69 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 62 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 59 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "En un brote de gastroenteritis por alimento contaminado, ¿cuál es el **primer paso** en la investigación de campo?",
+    "options": [
+      "Identificar vehículo de transmisión",
+      "Definir caso sospechoso",
+      "Aplicar cuestionarios",
+      "Tomar muestras de laboratorio",
+      "Emitir informe final"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso es el paso inicial para estandarizar quién entra al conteo.",
+    "more": "Luego se hace línea de tiempo, curvas epidémicas y búsqueda activa."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre de 29 años fumador activo 20 paquetes-año, sin síntomas. ¿Qué tamizaje reduce mortalidad específica?",
+    "options": [
+      "Radiografía anual de tórax",
+      "TC de baja dosis para cáncer de pulmón",
+      "Citología de esputo",
+      "RMN torácica",
+      "No hay tamizaje recomendado"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en 50–80 años con ≥20–30 paquetes-año disminuye mortalidad por cáncer de pulmón.",
+    "more": "Criterios exactos varían por guía; suspender si dejó de fumar hace >15 años."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 39 años con fiebre, dolor lumbar, disuria y puñopercusión positiva. EGO: piuria, nitritos positivos. ¿Tratamiento inicial apropiado?",
+    "options": [
+      "Nitrofurantoína oral por 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Ciprofloxacino tópico",
+      "No dar antibiótico; solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro sugiere pielonefritis; manejo inicial con antibiótico parenteral (p. ej., ceftriaxona).",
+    "more": "Nitrofurantoína/Fosfomicina son para cistitis no complicada, no pielonefritis."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 61 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 30 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con DM2 de 20 años, TFG estimada 42 ml/min/1.73 m² y microalbuminuria persistente. Presión arterial 148/92 mmHg. ¿Cuál es el antihipertensivo de primera línea?",
+    "options": [
+      "Bloqueador beta no selectivo",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista de calcio de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II reducen progresión de nefropatía diabética y son primera línea.",
+    "more": "Evita calcio de acción corta; diurético de asa se reserva para sobrecarga de volumen."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 38 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 30 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón de 63 años con dolor en fosa iliaca derecha, fiebre y Blumberg positivo. ¿Diagnóstico más probable?",
+    "options": [
+      "Gastroenteritis",
+      "Apendicitis aguda",
+      "Colecistitis aguda",
+      "Diverticulitis",
+      "Pancreatitis aguda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de apendicitis aguda.",
+    "more": "Manejo: apendicectomía y antibióticos según caso."
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Llega paciente con dolor opresivo torácico de 30 min, palidez y diaforesis. Monitor con taquicardia y ST ↑ anterolateral. Tiempo puerta-balón estimado 150 min. ¿Conducta?",
+    "options": [
+      "ICP primaria, aunque supere 120 min",
+      "Trombólisis inmediata con tenecteplasa",
+      "Esperar enzimas cardiacas",
+      "Beta bloqueador IV y observar",
+      "Alta con cita en 24 h"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón >120 min, se favorece trombólisis si no hay contraindicaciones.",
+    "more": "Reevaluar para rescate/transferencia posterior."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante de 11 semanas con sangrado vaginal indoloro y útero mayor para la edad gestacional; USG con imagen en 'copos de nieve'. ¿Conducta?",
+    "options": [
+      "Expectante",
+      "Legrado uterino por aspiración",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Solo ácido tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro compatible con mola hidatidiforme; manejo con AMEU/legrado por aspiración.",
+    "more": "Monitorizar BHCG seriada posterior."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre de 45 años fumador activo 20 paquetes-año, sin síntomas. ¿Qué tamizaje reduce mortalidad específica?",
+    "options": [
+      "Radiografía anual de tórax",
+      "TC de baja dosis para cáncer de pulmón",
+      "Citología de esputo",
+      "RMN torácica",
+      "No hay tamizaje recomendado"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en 50–80 años con ≥20–30 paquetes-año disminuye mortalidad por cáncer de pulmón.",
+    "more": "Criterios exactos varían por guía; suspender si dejó de fumar hace >15 años."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer de 43 años con disnea progresiva, estertores bibasales y ortopnea. Radiografía: cardiomegalia y redistribución vascular. BNP elevado. ¿Diagnóstico más probable?",
+    "options": [
+      "EPOC descompensada",
+      "Asma bronquial",
+      "Insuficiencia cardiaca congestiva",
+      "Neumonía atípica",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia, congestión y BNP elevado apuntan a insuficiencia cardiaca.",
+    "more": "EPOC y asma no causan cardiomegalia; la EP suele ser de inicio súbito con signos de sobrecarga derecha."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante de 9 semanas con sangrado vaginal indoloro y útero mayor para la edad gestacional; USG con imagen en 'copos de nieve'. ¿Conducta?",
+    "options": [
+      "Expectante",
+      "Legrado uterino por aspiración",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Solo ácido tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro compatible con mola hidatidiforme; manejo con AMEU/legrado por aspiración.",
+    "more": "Monitorizar BHCG seriada posterior."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Paciente con herida cortante contaminada hace 14 h y esquema de vacunación tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza y sutura",
+      "Toxoide tetánico + inmunoglobulina antitetánica",
+      "Antibiótico y alta",
+      "Ninguna intervención",
+      "Solo toxoide tetánico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido: toxoide + Ig antitetánica.",
+    "more": "Sutura diferida si hay contaminación significativa."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón de 54 años con dolor en fosa iliaca derecha, fiebre y Blumberg positivo. ¿Diagnóstico más probable?",
+    "options": [
+      "Gastroenteritis",
+      "Apendicitis aguda",
+      "Colecistitis aguda",
+      "Diverticulitis",
+      "Pancreatitis aguda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de apendicitis aguda.",
+    "more": "Manejo: apendicectomía y antibióticos según caso."
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 76 años con tos crónica y expectoración >3 meses/año por 2 años, tabaquismo 20 paquetes-año. Espirometría: FEV1/FVC < 0.70. ¿Cuál intervención mejora supervivencia?",
+    "options": [
+      "Teofilina a demanda",
+      "Oxígeno domiciliario en hipoxemia crónica",
+      "Corticoide sistémico crónico",
+      "Antibiótico macrólido mensual",
+      "Mucolítico diario"
+    ],
+    "correctIndex": 1,
+    "explanation": "El oxígeno domiciliario en EPOC con hipoxemia crónica documentada mejora la supervivencia.",
+    "more": "Corticoides sistémicos crónicos no; teofilina de segunda/tercera línea por efectos adversos."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer de 33 años sin antecedentes, IMC 27. ¿Intervención inicial recomendada?",
+    "options": [
+      "Farmacoterapia antiobesidad inmediata",
+      "Cirugía bariátrica",
+      "Consejería nutricional y actividad física",
+      "Dieta cetogénica estricta sin seguimiento",
+      "Solo seguimiento anual"
+    ],
+    "correctIndex": 2,
+    "explanation": "En sobrepeso/obesidad sin comorbilidad, primera línea es cambio de estilo de vida con metas realistas.",
+    "more": "Farmaco/cirugía según IMC y comorbilidades."
+  }
+]
