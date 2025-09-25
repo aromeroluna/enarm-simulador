@@ -1,0 +1,24 @@
+[
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón de 63 años con dolor torácico de 2 horas y elevación del ST en V1–V4. ¿Qué hacer?",
+    "options": [
+      "Dar nifedipino sublingual",
+      "Administrar oxígeno, aspirina y acceso venoso",
+      "Trombolisis inmediata",
+      "Tomografía de tórax",
+      "Reposo y cateterismo en 72 h"
+    ],
+    "correctIndex": 1,
+    "explanation": "El manejo inicial es oxígeno si hipoxemia, AAS y acceso venoso.",
+    "more": "Luego se decide reperfusión según disponibilidad."
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante con tos perruna, estridor y fiebre. ¿Diagnóstico más probable?",
+    "options": ["Epiglotitis", "Crup viral", "Asma", "Neumonía", "Reflujo"],
+    "correctIndex": 1,
+    "explanation": "El crup viral cursa con tos metálica y estridor.",
+    "more": "Se trata con esteroides sistémicos y adrenalina nebulizada si grave."
+  }
+]
