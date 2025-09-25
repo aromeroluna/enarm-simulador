@@ -1,24 +1,106 @@
 [
   {
     "area": "Medicina Interna",
-    "stem": "Varón de 63 años con dolor torácico de 2 horas y elevación del ST en V1–V4. ¿Qué hacer?",
+    "stem": "Varón de 63 años con dolor torácico opresivo de 2 h, diaforesis e hipotensión. ECG: elevación del ST en V1–V4. ¿Conducta inicial?",
     "options": [
-      "Dar nifedipino sublingual",
-      "Administrar oxígeno, aspirina y acceso venoso",
+      "Nifedipino sublingual",
+      "Oxígeno, aspirina y acceso venoso",
       "Trombolisis inmediata",
       "Tomografía de tórax",
       "Reposo y cateterismo en 72 h"
     ],
     "correctIndex": 1,
-    "explanation": "El manejo inicial es oxígeno si hipoxemia, AAS y acceso venoso.",
-    "more": "Luego se decide reperfusión según disponibilidad."
+    "explanation": "El manejo inicial en IAMCEST es soporte con O2 si Sat < 90%, aspirina y accesos venosos.",
+    "more": "Después se define reperfusión: ICP primaria vs trombólisis."
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Paciente de 25 años con dolor en fosa iliaca derecha, fiebre y leucocitosis. Signo de Blumberg positivo. ¿Diagnóstico más probable?",
+    "options": ["Gastroenteritis", "Apendicitis aguda", "Colecistitis", "Diverticulitis", "Pancreatitis"],
+    "correctIndex": 1,
+    "explanation": "Dolor en FID + Blumberg + fiebre = apendicitis aguda.",
+    "more": "El tratamiento es apendicectomía."
   },
   {
     "area": "Pediatría",
-    "stem": "Lactante con tos perruna, estridor y fiebre. ¿Diagnóstico más probable?",
+    "stem": "Lactante de 7 meses con tos 'perruna', estridor y fiebre. ¿Diagnóstico más probable?",
     "options": ["Epiglotitis", "Crup viral", "Asma", "Neumonía", "Reflujo"],
     "correctIndex": 1,
-    "explanation": "El crup viral cursa con tos metálica y estridor.",
-    "more": "Se trata con esteroides sistémicos y adrenalina nebulizada si grave."
+    "explanation": "Crup viral: tos metálica, estridor inspiratorio, fiebre.",
+    "more": "Se maneja con esteroides ± adrenalina nebulizada."
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer de 35 años con dismenorrea progresiva, dispareunia y endometriomas en ultrasonido. ¿Diagnóstico?",
+    "options": ["Endometriosis", "EIP crónica", "SOP", "Quiste de cuerpo lúteo", "Cistoadenoma seroso"],
+    "correctIndex": 0,
+    "explanation": "Clínica típica de endometriosis con quistes de 'vidrio esmerilado'.",
+    "more": "La tríada clásica es dismenorrea, dispareunia e infertilidad."
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre de 55 años con DM2, PA 145/90 y LDL elevado. No antecedentes de ECV. ¿Medida preventiva indicada?",
+    "options": [
+      "Estatinas de alta intensidad",
+      "No requiere fármacos",
+      "IECA únicamente",
+      "Anticoagulantes",
+      "Aspirina diaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "El paciente con DM2 y riesgo CV necesita estatinas de alta intensidad.",
+    "more": "Prevención primaria según guías ADA/AHA."
+  },
+  {
+    "area": "Epidemiología",
+    "stem": "Se confirma brote de salmonelosis en restaurante. ¿Primer paso de la investigación epidemiológica?",
+    "options": [
+      "Aplicar cuestionarios",
+      "Definir caso sospechoso",
+      "Identificar vehículo de transmisión",
+      "Notificar al ministerio",
+      "Hacer pruebas de laboratorio"
+    ],
+    "correctIndex": 1,
+    "explanation": "En epidemiología de campo, el primer paso es definir caso sospechoso.",
+    "more": "Después se procede a identificar fuente y vehículo."
+  },
+  {
+    "area": "Bioética",
+    "stem": "Paciente terminal rechaza tratamiento y solicita cuidados paliativos. Principio ético que se respeta:",
+    "options": ["Beneficencia", "No maleficencia", "Autonomía", "Justicia", "Veracidad"],
+    "correctIndex": 2,
+    "explanation": "Respetar la decisión del paciente corresponde al principio de autonomía.",
+    "more": "La autonomía se prioriza siempre que no afecte a terceros."
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Paciente con Glasgow 6 tras accidente, vía aérea no protegida. ¿Medida inmediata?",
+    "options": ["Oxígeno por mascarilla", "Intubación orotraqueal", "Tomografía de cráneo", "Naloxona IV", "Monitoreo en observación"],
+    "correctIndex": 1,
+    "explanation": "Glasgow ≤ 8 = indicación absoluta de intubación orotraqueal.",
+    "more": "Protección de vía aérea es prioritaria."
+  },
+  {
+    "area": "Neonatología",
+    "stem": "Recién nacido con cianosis central que mejora con llanto. Sospecha:",
+    "options": ["Atresia coanal", "Cardiopatía congénita", "Membrana hialina", "Sepsis neonatal", "Neumotórax"],
+    "correctIndex": 0,
+    "explanation": "La atresia coanal bilateral se caracteriza por cianosis que mejora al llorar.",
+    "more": "Confirmación con sonda nasogástrica y manejo quirúrgico."
+  },
+  {
+    "area": "Psiquiatría",
+    "stem": "Mujer de 28 años con tristeza persistente >2 semanas, anhedonia e ideación de culpa. ¿Diagnóstico más probable?",
+    "options": [
+      "Trastorno de ansiedad generalizada",
+      "Distimia",
+      "Depresión mayor",
+      "Ciclotimia",
+      "Trastorno adaptativo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Criterios diagnósticos cumplen depresión mayor.",
+    "more": "Duración >2 semanas + síntomas afectivos nucleares."
   }
 ]
