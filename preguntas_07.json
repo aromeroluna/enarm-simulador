@@ -1,0 +1,7002 @@
+[
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 34 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 48 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 16 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 62 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con dolor torácico de 60 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 16 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 22 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 74 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 64 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 61 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 25 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 58 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 13 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 64 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 75 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 24 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 8 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 30 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 69 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 8 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 20 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 8. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 64 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 14 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 45 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 66 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 60 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 40 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 41 a con dolor torácico de 20 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 75 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 34 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 28 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 48 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 37 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 27. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 60 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 6. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 17 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 36 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 67 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 79 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 77 a con dolor torácico de 20 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 14 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 67 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 57 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 72 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 36. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 30 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 44 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 63 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 33. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 27 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 20 a con dolor torácico de 90 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Manejo?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis",
+      "Esperar enzimas",
+      "BB IV",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 28 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 61 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 12 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 42 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 19 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 66 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 41 a con dolor torácico de 20 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 14 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 21 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 71 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 74 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 73 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 75 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 28 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 6. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 51 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 72 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Manejo?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis",
+      "Esperar enzimas",
+      "BB IV",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 43 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Manejo?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis",
+      "Esperar enzimas",
+      "BB IV",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 40 a con dolor torácico de 20 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 7 a, TFG 42 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 20 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 40 a con dolor torácico de 60 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 64 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 61 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 50 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 13 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 26 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Manejo?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis",
+      "Esperar enzimas",
+      "BB IV",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 29 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 66 a con dolor torácico de 30 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 11 a, TFG 65 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 6. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 57 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 52 a con dolor torácico de 30 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 74 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 58 a con dolor torácico de 20 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 22 a con dolor torácico de 60 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Manejo?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis",
+      "Esperar enzimas",
+      "BB IV",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 75 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 79 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 71 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 19 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 75 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 73 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 52 a con dolor torácico de 30 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 47 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 65 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 23 a con dolor torácico de 20 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Manejo?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis",
+      "Esperar enzimas",
+      "BB IV",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 33. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 20 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 7 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 12 a, TFG 65 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 79 a con dolor torácico de 30 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 35 a con dolor torácico de 20 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Manejo?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis",
+      "Esperar enzimas",
+      "BB IV",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 52 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 31 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 39 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 77 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 79 a con dolor torácico de 20 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 55 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 60 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 20 a, TFG 65 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 25 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 13 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 64 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 15 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 65 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 63 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 79 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 25 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 62 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 11 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 58 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 50 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 21 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 46 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 71 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 41 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 30 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 32 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 52 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 15 a, TFG 42 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 6. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 80 a con dolor torácico de 20 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 28 a con dolor torácico de 30 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 33 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 7. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 65 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 39 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 20 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 71 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 50 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 27 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 53 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 62 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 19 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 20 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 65 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 45 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 a, TFG 42 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 58 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 41 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 59 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 69 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 10 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 64 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 21 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 60 a con dolor torácico de 45 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 55 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 31 a con dolor torácico de 45 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 a, TFG 42 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 13 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 25 a con dolor torácico de 60 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 24 a con dolor torácico de 45 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 7. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 67 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 27 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 42 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 17 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 19 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 27 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 8 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma GCS 7. ¿Intervención inmediata?",
+    "options": [
+      "TAC",
+      "Intubación",
+      "Analgesia",
+      "Líquidos",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 47 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 76 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 58 a con dolor torácico de 60 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 51 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 17 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 6 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 74 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 34 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 64 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 14 a, TFG 75 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 42 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 54 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 13 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 8 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 27 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 43 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 21 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 43 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 75 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 32 a con dolor torácico de 20 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 54 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 32 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 10 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 26 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 8 a, TFG 55 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 27. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 63 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 12 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 64 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 67 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5-V6. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo clínico doble ciego. ¿Qué sesgo reduce?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 12 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 77 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 37 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 11 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía",
+      "Membrana hialina",
+      "Sepsis",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 24 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 34 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 18 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 73 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 79 a con exudado amigdalar y test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav",
+      "Penicilina benzatínica",
+      "Azitromicina",
+      "Ceftriaxona",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 66 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 42 a. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 44 a con dolor torácico de 30 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre, Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico",
+      "Macrólido",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 43 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 48 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 28 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 36. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 14 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 68 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 23 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 40 a con dolor torácico de 20 min, ST ↑ en V1-V4. ¿Manejo inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 46 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 44 a con disnea, ortopnea y edema. Rx cardiomegalia. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 36. ¿Intervención inicial?",
+    "options": [
+      "Fármacos",
+      "Cirugía bariátrica",
+      "Consejería y ejercicio",
+      "Dieta sin control",
+      "Seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 16 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 11 sdg, sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado AMEU",
+      "Metotrexato",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia, esquema tétanos incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria. ¿Tx inicial?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico",
+      "Solo líquidos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 62 m con diarrea acuosa leve. ¿Manejo?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 a, TFG 85 ml/min, microalbuminuria. ¿Antihipertensivo?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD. ¿Dx probable?",
+    "options": [
+      "Colecistitis",
+      "Colangitis",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote GE. ¿Primer paso?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  }
+]
