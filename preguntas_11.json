@@ -1,0 +1,7002 @@
+[
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 65 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 80 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 68 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 41 a con IMC 40, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 55 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 66 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 85 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 47 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 75 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #5 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 50 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 35 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 66 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 82 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 60 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 a, TFG 38 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 72 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 43 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 48 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 64 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politraumatizado con Glasgow 6 y respiración irregular. ¿Intervención inmediata prioritaria?",
+    "options": [
+      "TAC de cráneo",
+      "Intubación orotraqueal",
+      "Analgesia opioide",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 76 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 72 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 18 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politraumatizado con Glasgow 8 y respiración irregular. ¿Intervención inmediata prioritaria?",
+    "options": [
+      "TAC de cráneo",
+      "Intubación orotraqueal",
+      "Analgesia opioide",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 19 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #20 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 24 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 33 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 19 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 40 a con dolor torácico de 120 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 77 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 49 a con dolor torácico de 45 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 22 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 34 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 29 a con IMC 40, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 35 a con dolor torácico de 45 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 31 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #23 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 19 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 62 a con dolor torácico de 20 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 68 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 61 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 27 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 44 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 45 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 45 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #26 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 9 a, TFG 92 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #25 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 85 a con dolor torácico de 120 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 65 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 55 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 18 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 39 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 52 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 39 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 74 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 19 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 83 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 21 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 20 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 75 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Na 116 mEq/L con convulsiones y cefalea. ¿Paso inmediato?",
+    "options": [
+      "Restricción hídrica",
+      "Salina hipertónica 3% en bolos",
+      "Tiazida",
+      "Insulina IV",
+      "Solución hipotónica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑ anterolateral, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 60 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia de 14 h y esquema antitetánico desconocido. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 40 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 34 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 57 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 37 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 79 a con dolor torácico de 30 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 40 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 56 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 35 a con dolor torácico de 90 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 75 a con dolor torácico de 120 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 24 a con IMC 33, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 25 a, TFG 85 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 85 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 84 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 75 a con IMC 40, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 42 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 54 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 74 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 7 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 50 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 6 a, TFG 38 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 25 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 60 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 48 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 75 a fumador 30 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 44 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 62 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 66 a fumador 10 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 57 a con IMC 27, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 80 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 34 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 46 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 66 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 41 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 59 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 57 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 38 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #27 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 46 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 56 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 57 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 25 a fumador 40 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 27 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 13 a, TFG 75 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 30 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 14 a, TFG 55 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 67 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 81 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 79 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado, doble ciego. ¿Qué sesgo reduce con mayor fuerza?",
+    "options": [
+      "Sesgo de recuerdo",
+      "Sesgo de selección",
+      "Sesgo de publicación",
+      "Sesgo de verificación",
+      "Sesgo de supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 35 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 42 a con dolor torácico de 120 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 68 a con IMC 40, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 83 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Na 120 mEq/L con convulsiones y cefalea. ¿Paso inmediato?",
+    "options": [
+      "Restricción hídrica",
+      "Salina hipertónica 3% en bolos",
+      "Tiazida",
+      "Insulina IV",
+      "Solución hipotónica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 60 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 69 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 81 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 38 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 39 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 38 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 75 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 22 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 33 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 78 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 62 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 73 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 45 a con IMC 36, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 18 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 57 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 25 a, TFG 38 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 72 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 68 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 a, TFG 42 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 61 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 75 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 23 a, TFG 42 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 26 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 75 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 70 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 54 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #14 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 41 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 29 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 71 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 62 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 35 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #12 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 64 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 a, TFG 85 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 69 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 77 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 81 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 17 sdg con sangrado indoloro; USG en 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración (AMEU)",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 81 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 83 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 55 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 74 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 22 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 29 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 63 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 14 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 46 a con dolor torácico de 20 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 34 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 47 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 20 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 41 a fumador 50 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 80 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 76 a con dolor torácico de 30 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 85 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #17 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 80 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 43 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 24 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 a, TFG 75 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 a, TFG 75 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #29 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 33 a con dolor torácico de 90 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 81 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 23 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 26 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 a, TFG 38 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 45 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 24 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Paciente con cirrosis y ascitis tensa, dolor abdominal y fiebre. ¿Estudio inicial clave?",
+    "options": [
+      "USG hepático",
+      "Endoscopia alta",
+      "Paracentesis diagnóstica",
+      "TC de abdomen",
+      "RX de tórax"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #6 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 22 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 32 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 13 a, TFG 42 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 80 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 85 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 58 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 45 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 85 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politraumatizado con Glasgow 5 y respiración irregular. ¿Intervención inmediata prioritaria?",
+    "options": [
+      "TAC de cráneo",
+      "Intubación orotraqueal",
+      "Analgesia opioide",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 27 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 28 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 80 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 43 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 36 a con dolor torácico de 20 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 18 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 36 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 24 a, TFG 55 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 62 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 23 a, TFG 38 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 18 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 70 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 80 a fumador 40 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 21 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 77 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 39 a con dolor torácico de 30 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 69 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 25 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 84 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 59 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 52 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 31 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 59 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 39 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 23 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 49 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 46 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 61 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 73 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 76 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 30 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 19 a con IMC 30, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 35 a con IMC 42, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 63 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 22 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 37 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 28 a con dolor torácico de 120 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 27 a con dolor torácico de 45 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 74 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 48 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 65 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 37 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 44 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 40 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 26 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné, hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 35 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 84 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 84 a con dolor torácico de 20 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #34 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 80 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 31 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 47 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 77 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 33 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #0 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 40 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 41 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 37 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 52 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 80 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 55 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 76 a con dolor torácico de 90 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 37 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #28 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politraumatizado con Glasgow 7 y respiración irregular. ¿Intervención inmediata prioritaria?",
+    "options": [
+      "TAC de cráneo",
+      "Intubación orotraqueal",
+      "Analgesia opioide",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 62 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 40 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 64 a con dolor torácico de 120 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 a, TFG 55 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #18 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 28 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 79 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 71 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 55 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 31 a con dolor torácico de 120 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 42 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 49 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 32 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 24 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 45 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 44 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 80 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 42 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 39 a con IMC 36, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 61 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 69 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 56 a con dolor torácico de 120 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 58 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 81 a fumador 40 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 74 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 19 sdg con sangrado indoloro; USG en 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración (AMEU)",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 63 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 51 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 73 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 39 a fumador 40 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #30 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 31 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con dolor torácico de 30 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #16 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 84 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 67 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 63 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 28 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Na 118 mEq/L con convulsiones y cefalea. ¿Paso inmediato?",
+    "options": [
+      "Restricción hídrica",
+      "Salina hipertónica 3% en bolos",
+      "Tiazida",
+      "Insulina IV",
+      "Solución hipotónica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 45 a fumador 20 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 21 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 23 a, TFG 75 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 70 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 21 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 67 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #19 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 11 a, TFG 75 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha principal?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 65 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 41 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 56 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 17 a, TFG 85 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 82 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 29 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 26 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 55 a con dolor torácico de 90 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 36 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 82 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 32 a con IMC 42, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #31 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 54 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 76 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 55 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 78 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 47 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 44 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 20 sdg con sangrado indoloro; USG en 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración (AMEU)",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 29 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 18 sdg con sangrado indoloro; USG en 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración (AMEU)",
+      "Metotrexato sistémico de inicio",
+      "Cesárea inmediata",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 20 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 9 a, TFG 75 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 76 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 54 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 69 a con dolor torácico de 60 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 50 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 69 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 38 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 65 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #24 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #21 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 84 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #1 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 28 a con dolor torácico de 30 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 70 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 55 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #4 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 25 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Trabajadora de parto con dinámica uterina adecuada, sin progreso >2 h en dilatación activa. ¿Conducta inicial?",
+    "options": [
+      "Cesárea inmediata",
+      "Amniotomía y oxitocina si indicado",
+      "Alta a domicilio",
+      "Analgesia únicamente",
+      "Espera indefinida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 21 a, TFG 42 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 35 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 51 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #32 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 73 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 24 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 a, TFG 92 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 64 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 66 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 25 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 85 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 63 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 56 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #13 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 36 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 64 a con IMC 30, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #2 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 31 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 32 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 77 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 72 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 19 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 52 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC con hipoxemia crónica documentada. ¿Qué intervención mejora la supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 32 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, puñopercusión positiva y piuria. ¿Tratamiento inicial más adecuado?",
+    "options": [
+      "Nitrofurantoína",
+      "Ceftriaxona IV",
+      "Fosfomicina",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 59 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 59 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #8 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 77 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 12 a, TFG 92 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 49 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 61 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 73 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 12 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 24 a, TFG 75 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 32 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 37 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 82 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 13 a, TFG 38 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 21 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 a, TFG 85 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 64 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 49 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 36 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 37 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 18 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 54 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 50 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 50 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 45 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 24 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 34 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 27 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 76 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #3 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 71 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Pancreatitis aguda con criterios de severidad. ¿Estudio de imagen útil para complicaciones?",
+    "options": [
+      "USG vesicular",
+      "Rx de abdomen",
+      "Endoscopia alta",
+      "TC contrastada de abdomen",
+      "Colonoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 19 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 21 a con IMC 36, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 58 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 50 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 49 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 79 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 37 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 26 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 29 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 82 a con dolor torácico de 90 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 37 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 31 a con dolor torácico de 90 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Adulto mayor 30 a con polifarmacia. ¿Medida de seguridad en atención primaria?",
+    "options": [
+      "Ignorar interacciones",
+      "Revisión sistemática de medicamentos",
+      "Agregar benzodiacepina para dormir",
+      "Suspender todos los AINE sin evaluar",
+      "Antibiótico empírico siempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 41 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #7 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #10 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 40 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 45 a con dolor torácico de 90 min, ST ↑ en I, aVL, V5–V6. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 25 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 71 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 51 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 85 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 43 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 32 a con dolor torácico de 120 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 26 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 11 a, TFG 65 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 36 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Mujer 65 a con IMC 30, sin comorbilidad. ¿Intervención inicial recomendada?",
+    "options": [
+      "Fármacos antiobesidad inmediatos",
+      "Cirugía bariátrica",
+      "Consejería nutricional y ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 38 a con dolor torácico de 120 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 68 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 25 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 51 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 49 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 24 a, TFG 38 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 59 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 19 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 53 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 48 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con dolor torácico de 120 min, ST ↑ en II, III, aVF. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 21 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 27 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 21 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #33 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 32 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 70 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 21 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 22 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #9 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 72 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 55 m con GE leve y deshidratación leve. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 22 a con dolor torácico de 45 min, ST ↑ en V1–V4. ¿Manejo inicial más apropiado?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax con contraste",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 a, TFG 42 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 65 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 53 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote de gastroenteritis por alimento. ¿Primer paso en investigación de campo?",
+    "options": [
+      "Identificar vehículo de transmisión",
+      "Definir caso sospechoso",
+      "Aplicar cuestionarios",
+      "Tomar muestras de laboratorio",
+      "Emitir informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 25 a, TFG 42 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 69 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 78 m con tos 'perruna', estridor y fiebre. ¿Dx más probable?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 78 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 60 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 38 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 a, TFG 55 ml/min/1.73 m² y microalbuminuria. PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca de acción corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 26 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #22 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 79 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 58 a con melena, TA 88/55, FC 120. ¿Paso inicial en hemorragia digestiva alta inestable?",
+    "options": [
+      "Colonoscopia diagnóstica",
+      "Alta con inhibidor de bomba",
+      "Reposo y líquidos VO",
+      "Reposición con cristaloides y estabilización",
+      "Capsuloendoscopia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 56 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 52 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 30 a con AIT reciente, LDL 158 mg/dL. ¿Medida farmacológica indicada?",
+    "options": [
+      "Estatina de baja intensidad",
+      "Ezetimiba en monoterapia",
+      "Fibrato",
+      "Estatina de alta intensidad",
+      "Omega 3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #15 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 40 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Hombre 48 a fumador 15 paq-año, asintomático. ¿Tamizaje que reduce mortalidad específica?",
+    "options": [
+      "Rx tórax",
+      "TC de baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 66 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Mujer 23 a con dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP crónica",
+      "SOP",
+      "Quiste de cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 45 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Variante única de control #11 — paciente con cuadro clínico compatible con IAMCEST. ¿Paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC de tórax",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Control para garantizar 500 entradas únicas.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 42 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 35 a con odinofagia, exudado y prueba rápida positiva a EBHGA. ¿Tratamiento?",
+    "options": [
+      "Amoxiclav 3 días",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Varón 39 a con dolor FID, fiebre y Blumberg +. ¿Dx más probable?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; imposibilidad de pasar sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal bilateral",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 24 m con otalgia, membrana timpánica hiperémica y abombada. ¿Tratamiento de primera línea?",
+    "options": [
+      "Amoxicilina",
+      "Ceftriaxona IV",
+      "Macrólido",
+      "Gotas óticas con quinolona",
+      "Observación sin antibiótico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 85 a con disnea, ortopnea, estertores y edema. Rx con cardiomegalia. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "Embolia pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  }
+]
