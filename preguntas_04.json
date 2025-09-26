@@ -1,0 +1,7002 @@
+[
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 61 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 11 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 50 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 51 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 20 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 11 años, TFG 55 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 18 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 63 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 44 a con dolor torácico de 45 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 54 a con dolor torácico de 90 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 67 a con dolor torácico de 45 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 57 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 49 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 13 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 54 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón se retrasa >120 min, trombólisis si elegible.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 26 a con dolor torácico de 90 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 70 a con dolor torácico de 60 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón se retrasa >120 min, trombólisis si elegible.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 15 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 27 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 15 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 44 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 45 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 39 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 32 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 43 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 18 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 57 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 21 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 61 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 32 a con dolor torácico de 30 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 12 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 6. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 79 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 50 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 11 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 36 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 19 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 66 a con dolor torácico de 90 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 8. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 36 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 20 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 60 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 33 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 58 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 20 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 36 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 33 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 26 a con dolor torácico de 120 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 10 años, TFG 42 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 27 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 73 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 69 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 34 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 28 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 55 a con dolor torácico de 120 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 58 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 15 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 58 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 71 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 60 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 18 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 6. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 36 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 67 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 10 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 20 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 11 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 18 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 36 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 78 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 10 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 15 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 13 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 26 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con dolor torácico de 120 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 59 a con dolor torácico de 90 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 75 a con dolor torácico de 45 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 67 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 30 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 76 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 13 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 63 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 71 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 6 años, TFG 55 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 15 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 30 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 71 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 33 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 14 años, TFG 85 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 26 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 34 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 10 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 12 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 31 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 47 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 63 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 años, TFG 42 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 18 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 26 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 20 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 57 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 58 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 10 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 33 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 30 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 25 a con dolor torácico de 30 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 26 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 57 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 50 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón se retrasa >120 min, trombólisis si elegible.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 74 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 54 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 55 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 39 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 48 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 9 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 66 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 9 años, TFG 42 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 16 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 73 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 64 a con dolor torácico de 20 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 47 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 76 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con dolor torácico de 60 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 30 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 77 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 15 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 30 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 33 a con dolor torácico de 20 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 40 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 57 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 15 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 33 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 30 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 51 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 60 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón se retrasa >120 min, trombólisis si elegible.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 36 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 77 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 años, TFG 85 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 74 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 73 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 40 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 12 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 10 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 56 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 77 a con dolor torácico de 20 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 63 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 7. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 12 años, TFG 55 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 63 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 20 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 10 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 19 años, TFG 65 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con dolor torácico de 120 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 6 años, TFG 42 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 10 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 16 años, TFG 85 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 60 a con dolor torácico de 20 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 33 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 26 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 30 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 8 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón se retrasa >120 min, trombólisis si elegible.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 43 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 44 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 72 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 9 años, TFG 42 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 41 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 11 años, TFG 65 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 28 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 21 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 24 a con dolor torácico de 30 min, ST ↑ en V1–V4. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 30 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 72 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 16 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 78 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 69 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 28 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 17 años, TFG 55 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 44 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 71 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 26 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 66 a con dolor torácico de 30 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 38 a con dolor torácico de 60 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 7. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 29 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 54 a con dolor torácico de 45 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 18 años, TFG 55 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 34 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 57 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Ensayo aleatorizado doble ciego. ¿Sesgo reducido principalmente?",
+    "options": [
+      "Recuerdo",
+      "Selección",
+      "Publicación",
+      "Verificación",
+      "Supervivencia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aleatorización ↓ sesgo de selección; doble ciego ↓ medición.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 50 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 39 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 36 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 40 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón se retrasa >120 min, trombólisis si elegible.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Tabaquismo 30 paq-año, EPOC con FEV1/FVC <0.70 e hipoxemia crónica. ¿Qué mejora supervivencia?",
+    "options": [
+      "Teofilina",
+      "Oxígeno domiciliario",
+      "Corticoide sistémico crónico",
+      "Macrólido mensual",
+      "Mucolítico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxígeno domiciliario prolonga vida en EPOC con hipoxemia crónica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 64 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 8 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 6 años, TFG 65 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 74 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 48 a con dolor torácico de 120 min, ST ↑ en I, aVL, V5–V6. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 55 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 35 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 72 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 15 años, TFG 42 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 6 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 7. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 26 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 66 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 71 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 26 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con dolor torácico de 60 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 41 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 34 a con dolor torácico de 30 min, ST ↑ en II, III, aVF. ¿Conducta inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina y acceso venoso",
+      "TAC de tórax",
+      "Warfarina inmediata",
+      "Reposo domiciliario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soporte inicial en IAMCEST; luego estrategia de reperfusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 años, TFG 75 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 27 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Epidemiología/Preventiva",
+    "stem": "Brote alimentario. ¿Primer paso de investigación?",
+    "options": [
+      "Identificar vehículo",
+      "Definir caso",
+      "Cuestionarios",
+      "Muestras",
+      "Informe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Definir caso estandariza inclusión/exclusión.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 26 a con disnea, ortopnea y edema. Rx: cardiomegalia; BNP elevado. ¿Dx?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía atípica",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardiomegalia + BNP alto → insuficiencia cardiaca.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 46 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 19 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 7. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 43 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 36 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 11 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 9 años, TFG 65 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Adulto con dolor urente epigástrico nocturno, alivio con antiácidos, prueba H. pylori +. ¿Conducta inicial?",
+    "options": [
+      "IBP + claritromicina + amoxicilina",
+      "AINE a dosis bajas",
+      "Antagonista H2 en monoterapia",
+      "Corticoide oral",
+      "Observación sin tratamiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erradicación estándar triple según resistencias locales.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 8 años, TFG 85 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 14 años, TFG 65 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Herida sucia 14 h y esquema antitetánico incierto. ¿Manejo?",
+    "options": [
+      "Solo limpieza",
+      "Toxoide + Ig antitetánica",
+      "Antibiótico y alta",
+      "Nada",
+      "Solo toxoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Herida sucia + esquema desconocido → toxoide + Ig.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 39 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 5 años, TFG 85 ml/min, microalbuminuria y PA 150/92. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista calcio corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "IECA/ARA-II protegen riñón en nefropatía diabética.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Dolor torácico 30 min, ST ↑, puerta-balón >120 min. ¿Conducta?",
+    "options": [
+      "ICP primaria",
+      "Trombólisis inmediata",
+      "Esperar enzimas",
+      "BB IV y observar",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si puerta-balón se retrasa >120 min, trombólisis si elegible.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 42 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 45 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 70 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "RN con cianosis que mejora al llorar; no pasa sonda nasal. ¿Dx?",
+    "options": [
+      "Atresia coanal",
+      "Cardiopatía congénita",
+      "Membrana hialina",
+      "Sepsis neonatal",
+      "Neumotórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cianosis que mejora con el llanto sugiere atresia coanal.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 64 m con deshidratación leve por diarrea. ¿Manejo inicial?",
+    "options": [
+      "Antibiótico",
+      "SRO",
+      "Loperamida",
+      "Ayuno",
+      "Hospitalización"
+    ],
+    "correctIndex": 1,
+    "explanation": "SRO es pilar en GE leve-moderada.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 12 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "IMC 27 sin comorbilidad. ¿Intervención inicial?",
+    "options": [
+      "Fármacos ya",
+      "Bariátrica inmediata",
+      "Consejería nutricional + ejercicio",
+      "Dieta cetogénica sin control",
+      "Solo seguimiento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primera línea: cambios de estilo de vida estructurados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Escolar 20 a con odinofagia y exudado, test estreptococo +. ¿Tx?",
+    "options": [
+      "Amoxiclav 3d",
+      "Penicilina benzatínica IM",
+      "Azitromicina única",
+      "Ceftriaxona IV",
+      "Sin antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tratamiento de primera línea para faringoamigdalitis estreptocócica.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Gestante 15 sdg con sangrado y USG 'copos de nieve'. ¿Manejo?",
+    "options": [
+      "Expectante",
+      "Legrado por aspiración",
+      "Metotrexato de entrada",
+      "Cesárea",
+      "Tranexámico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mola hidatidiforme → AMEU/legrado por aspiración.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 63 a, asintomático. ¿Tamizaje que reduce mortalidad?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología de esputo",
+      "RMN torácica",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCBD anual en alto riesgo reduce mortalidad por Ca pulmón.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Dismenorrea progresiva, dispareunia y endometriomas en USG. ¿Dx?",
+    "options": [
+      "Endometriosis",
+      "EIP",
+      "SOP",
+      "Quiste cuerpo lúteo",
+      "Cistoadenoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clínica + USG compatibles con endometriosis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Ictericia, fiebre y dolor HCD; hipotensión. ¿Sospecha?",
+    "options": [
+      "Colecistitis",
+      "Colangitis aguda",
+      "Hepatitis A",
+      "Pancreatitis",
+      "Úlcera perforada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triada de Charcot/pentada de Reynolds: colangitis.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Dolor FID, fiebre y Blumberg +. ¿Dx?",
+    "options": [
+      "GEA",
+      "Apendicitis aguda",
+      "Colecistitis",
+      "Diverticulitis",
+      "Pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadro típico de apendicitis.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Hiponatremia Na 120 mEq/L con confusión y convulsiones. ¿Manejo inmediato?",
+    "options": [
+      "Restricción hídrica únicamente",
+      "Solución salina hipertónica 3% en bolo",
+      "Diurético tiazídico",
+      "Insulina IV",
+      "Líquidos hipotónicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiponatremia severa sintomática: NaCl 3% en bolos controlados.",
+    "more": ""
+  },
+  {
+    "area": "Pediatría",
+    "stem": "Lactante 64 m con tos 'perruna' y estridor. ¿Dx?",
+    "options": [
+      "Epiglotitis",
+      "Crup viral",
+      "Asma",
+      "Neumonía",
+      "RGE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica típica de crup.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Fiebre, dolor lumbar, piuria y nitritos +. ¿Tratamiento inicial?",
+    "options": [
+      "Nitrofurantoína 3 días",
+      "Ceftriaxona IV",
+      "Fosfomicina dosis única",
+      "Antiséptico urinario",
+      "Solo hidratación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pielonefritis: antibiótico parenteral inicial.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Ginecología y Obstetricia",
+    "stem": "Adolescente con ciclos irregulares, acné e hirsutismo; USG con ovarios poliquísticos. ¿Dx?",
+    "options": [
+      "HSC",
+      "SOP",
+      "Insuficiencia ovárica",
+      "Hiperprolactinemia",
+      "Hipotiroidismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clínica + imagen compatibles con SOP.",
+    "more": ""
+  },
+  {
+    "area": "Urgencias",
+    "stem": "Politrauma, Glasgow 8. ¿Prioridad inmediata?",
+    "options": [
+      "TAC",
+      "Intubación orotraqueal",
+      "Analgesia",
+      "Líquidos a chorro",
+      "Rx cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ≤8 o respiración ineficaz → intubar (A de ABC).",
+    "more": ""
+  }
+]
