@@ -1,0 +1,7002 @@
+[
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #170: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 30 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #81: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 43 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #30: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #97: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 80 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #35: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 27 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 41 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #73: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #200: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 28 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 57 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #105: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 42 a con dolor torácico 90 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 50 paq-año, 20 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 79 a con dolor torácico 90 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 73 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 58 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 53 a con dolor torácico 20 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 59 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 21 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #77: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 22 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 78 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 40 a con dolor torácico 20 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #51: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #72: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #187: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #153: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 41 a con dolor torácico 45 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #104: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #128: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #208: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #194: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 34 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #218: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #64: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 43 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #17: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #242: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 82 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Cirugía",
+    "stem": "Colecistitis aguda con litos. ¿Manejo definitivo recomendado?",
+    "options": [
+      "Colecistectomía laparoscópica temprana",
+      "Colecistostomía percutánea en todos",
+      "Solo antibiótico y alta",
+      "Espera de 6 meses",
+      "CPRE diagnóstica de entrada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 29 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #130: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 66 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #120: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 59 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #5: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #37: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 41 a con dolor torácico 30 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 40 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #197: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 57 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 56 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #52: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 74 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #198: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 60 a con dolor torácico 30 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #171: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #53: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #14: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #156: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #119: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #12: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 46 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 63 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 22 a con dolor torácico 30 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 49 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #257: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 39 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 19 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #102: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #178: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #92: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #6: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #190: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #56: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #114: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 44 a con dolor torácico 45 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 24 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 76 a con dolor torácico 45 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #237: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #127: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 62 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #107: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #233: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #133: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #112: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #176: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 64 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 82 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #66: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 68 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #228: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 23 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #241: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #75: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #246: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #172: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #162: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 85 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #205: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 74 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #202: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 39 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #4: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #161: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con dolor torácico 20 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 54 a con dolor torácico 30 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 46 a con dolor torácico 120 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #19: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #224: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #207: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 21 a con dolor torácico 120 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #111: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "EPOC reagudizado con pCO2 elevada y acidosis. ¿Soporte ventilatorio inicial recomendado?",
+    "options": [
+      "Intubación inmediata en todos",
+      "Ventilación mecánica invasiva a todos",
+      "Oxígeno alto flujo universal",
+      "Ventilación no invasiva (BiPAP) si no hay contraindicaciones",
+      "Solo broncodilatador"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #106: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #225: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 61 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 36 a con dolor torácico 90 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #173: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #223: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 83 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #61: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #206: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 56 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #68: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #24: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 49 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 50 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #101: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 63 a con dolor torácico 45 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 84 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #216: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #229: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #116: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 58 a con dolor torácico 45 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 48 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #196: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #43: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #245: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 80 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #149: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 33 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #260: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 84 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #185: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #0: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 74 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 31 a con dolor torácico 120 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #164: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Pericarditis aguda con ST supra difuso. ¿Manejo inicial?",
+    "options": [
+      "AINE + colchicina",
+      "Anticoagulación plena",
+      "Trombolisis",
+      "Corticoide de entrada",
+      "Amiodarona"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 83 a con dolor torácico 30 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 79 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #227: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #9: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #204: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #124: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 31 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #230: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #263: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #49: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 77 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #209: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #157: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 30 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 64 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #239: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con dolor torácico 20 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 29 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 72 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #18: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #50: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #252: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #169: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 52 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 56 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 37 a con dolor torácico 60 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #80: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 53 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #71: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #199: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #86: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 35 a con dolor torácico 30 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #258: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #222: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #144: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #160: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 70 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #36: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 32 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con dolor torácico 30 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #48: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #20: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #125: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 64 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #259: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 32 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 61 a con dolor torácico 60 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 25 a con dolor torácico 30 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #253: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #181: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 63 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 62 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #115: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #186: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #168: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 52 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 67 a con dolor torácico 45 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #226: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #1: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 9 a con microalbuminuria; TFG 85, PA 152/94. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 18 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #179: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 80 a con dolor torácico 120 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #87: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 81 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #110: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #240: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #232: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 11 a con microalbuminuria; TFG 92, PA 152/94. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #159: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #247: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 33 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 53 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #219: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #65: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Endocarditis infecciosa en usuario IV; hemocultivos tomados. ¿Antibiótico empírico?",
+    "options": [
+      "Cefazolina sola",
+      "Ampicilina sola",
+      "Oxacilina sola",
+      "Ceftriaxona sola",
+      "Vancomicina +/- cefepima según riesgo de Gram negativos"
+    ],
+    "correctIndex": 4,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #47: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #10: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #213: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 27 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 20 a con dolor torácico 45 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 81 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 82 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #109: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 71 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #93: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #123: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 34 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #147: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #117: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 50 paq-año, 33 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #193: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 84 a con dolor torácico 20 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 61 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 81 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #39: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #256: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 25 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #67: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #138: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 57 a con dolor torácico 45 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 30 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 54 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 59 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #135: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #121: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 84 a con dolor torácico 45 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #248: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 82 a con dolor torácico 120 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #15: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 35 a con dolor torácico 120 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #54: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 58 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 69 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #251: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #132: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 56 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 43 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #136: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 48 a con dolor torácico 90 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 79 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #214: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 30 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 23 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 41 a con dolor torácico 90 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 34 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 39 a con dolor torácico 120 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #236: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 75 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #45: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 50 paq-año, 21 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #141: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #96: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #27: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #249: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 66 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #244: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #85: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #11: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 62 a con dolor torácico 90 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 83 a con dolor torácico 120 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #28: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #57: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 60 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #201: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 75 a con dolor torácico 90 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #60: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 55 a con dolor torácico 60 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 78 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 70 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #79: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #212: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 74 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #180: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 25 a con dolor torácico 20 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #89: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 25 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #217: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 38 a con dolor torácico 30 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 55 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #163: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 51 a con dolor torácico 60 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #95: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 66 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #108: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #221: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #134: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #113: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 46 a con dolor torácico 45 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #21: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #29: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #90: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 44 a con dolor torácico 60 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 60 a con dolor torácico 90 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 30 paq-año, 79 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #31: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #175: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #189: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #23: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #146: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 35 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 33 a con dolor torácico 120 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #183: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 82 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #152: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 67 a con dolor torácico 90 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 26 a con dolor torácico 120 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 71 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #131: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 78 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 46 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #150: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #33: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 38 a con dolor torácico 60 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 47 a con dolor torácico 60 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #76: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 38 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 21 a con dolor torácico 120 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #16: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 76 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 21 a con dolor torácico 20 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #63: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #26: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #103: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #148: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 40 paq-año, 82 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #262: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #203: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #82: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 80 a con dolor torácico 60 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #174: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #32: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #234: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #137: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #55: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #126: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 46 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #70: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 57 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 84 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #210: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #231: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 76 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #211: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #22: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #69: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 45 a con dolor torácico 60 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 38 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #46: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 39 a con dolor torácico 45 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 24 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 55 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #235: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 45 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #177: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 18 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #184: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #41: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #261: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #8: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 33 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 80 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #215: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 72 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 53 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #38: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #143: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 85 a con dolor torácico 60 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 27 a con dolor torácico 90 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #98: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #25: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #151: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #182: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #7: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #59: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #58: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 19 a con dolor torácico 120 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 77 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 56 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 72 a con dolor torácico 90 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #94: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #140: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #100: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #118: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #78: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #40: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 20 paq-año, 76 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #91: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #238: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #154: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #3: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 63 a con dolor torácico 120 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #155: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 59 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 20 a con dolor torácico 90 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 80 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #145: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 29 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #122: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "DM2 24 a con microalbuminuria; TFG 75, PA 152/94. ¿Antihipertensivo de elección?",
+    "options": [
+      "Beta bloqueador",
+      "Diurético de asa",
+      "IECA",
+      "Antagonista Ca corta",
+      "Alfa bloqueador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 22 a con dolor torácico 20 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 51 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 39 a con dolor torácico 45 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 20 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 21 a con dolor torácico 45 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 33 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #165: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 35 a con dolor torácico 30 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #62: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 58 a con dolor torácico 20 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 44 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 42 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 80 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 47 a con dolor torácico 30 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #44: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 67 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 21 a con dolor torácico 60 min, ST ↑ I, aVL, V5–V6; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #243: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #255: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #13: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #2: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 62 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #195: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 68 a con dolor torácico 90 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 56 a con dolor torácico 30 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 45 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #158: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #250: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #188: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 15 paq-año, 80 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 24 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #191: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 24 a con dolor torácico 20 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #42: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #220: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #142: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #254: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 45 a con dolor torácico 20 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #167: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 22 a con dolor torácico 90 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #192: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 43 a con dolor torácico 45 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 66 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #88: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 43 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 85 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Familiar",
+    "stem": "Fumador 10 paq-año, 72 a, asintomático. ¿Tamizaje útil?",
+    "options": [
+      "Rx tórax",
+      "TC baja dosis",
+      "Citología esputo",
+      "RMN",
+      "Ninguno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 26 a con dolor torácico 60 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 76 a con dolor torácico 90 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #74: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 77 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #129: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #34: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 72 a con dolor torácico 90 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #166: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 55 a con ortopnea y edema; estertores; BNP 900. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #83: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 20 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 26 a con ortopnea y edema; estertores; BNP 1200. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Mujer 56 a con ortopnea y edema; estertores; BNP 450. ¿Dx más probable?",
+    "options": [
+      "EPOC",
+      "Asma",
+      "Insuficiencia cardiaca",
+      "Neumonía",
+      "EP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #139: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 66 a con dolor torácico 20 min, ST ↑ II, III, aVF; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #99: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Control único T25 #84: IAMCEST — paso inicial adecuado.",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno, aspirina, acceso venoso",
+      "TAC",
+      "Warfarina",
+      "Reposo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrada de control para completar 500 sin duplicados.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 44 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  },
+  {
+    "area": "Medicina Interna",
+    "stem": "Varón 30 a con dolor torácico 120 min, ST ↑ V1–V4; AAS previa. ¿Siguiente paso inicial?",
+    "options": [
+      "Nifedipino SL",
+      "Oxígeno y acceso venoso",
+      "TAC torácica con contraste",
+      "Warfarina",
+      "Alta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregunta estilo ENARM.",
+    "more": ""
+  }
+]
